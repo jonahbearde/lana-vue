@@ -1,0 +1,10 @@
+{
+  "name": "lana-vue-docs",
+  "version": "0.0.0",
+  "description": "Documentation website for lana-vue",
+  "author": "jonabirde",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"testing lana-vue-docs\" && exit 1"
+  }
+}
