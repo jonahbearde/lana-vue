@@ -1,15 +1,14 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <button>
+  <button class="lana-button">
     <slot />
   </button>
 </template>
 
 <style scoped lang="scss">
-button {
-  background-color: #4caf50;
+.lana-button {
+  background-color: var(--lana-color-red);
   font-size: 20px;
   font-weight: 700;
 }

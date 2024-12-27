@@ -10,7 +10,7 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.mjs"
     },
-    "./styles": "./dist/lana-vue.css"
+    "./styles": "./dist/styles.css"
   },
   "scripts": {
     "test": "echo \"testing lana-vue\" && exit 1",

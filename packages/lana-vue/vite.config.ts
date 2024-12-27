@@ -27,6 +27,9 @@ export default defineConfig({
       },
     },
     rollupOptions: {
+      output: {
+        assetFileNames: 'styles.css',
+      },
       external: ['vue'],
     },
     emptyOutDir: true,
