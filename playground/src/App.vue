@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Button } from '@jonabirde/lana-vue'
+import { Button } from 'lana-vue'
 </script>
 
 <template>
